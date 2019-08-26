@@ -11,8 +11,6 @@
 .idea
 .tox
 /venv*
-babel/global.dat
-babel/global.dat.json
 build
 dist
 docs/_build
